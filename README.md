@@ -1,6 +1,6 @@
 # Frt-mumble-theme
 
-**Only support windows**
+**Only support windows and Only have drak theme**
 
 just locating the 
     
